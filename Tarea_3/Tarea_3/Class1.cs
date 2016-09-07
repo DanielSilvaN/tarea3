@@ -29,8 +29,7 @@ for (var i = 0;
 {
     manyPhrases.Append(phrase);
 }
-    //Console.WriteLine("tra" + manyPhrases);
-
+    
 
 }
 }
